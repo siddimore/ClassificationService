@@ -1,0 +1,8 @@
+pandas
+flask==0.12.2
+gunicorn==17.5
+nltk==3.3
+keras==2.1.2
+tensorflow==1.4.1
+h5py
+gensim
